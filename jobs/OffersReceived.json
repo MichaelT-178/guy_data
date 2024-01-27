@@ -1,0 +1,54 @@
+{
+    "Internships": [
+        {
+            "Company": "USAA",
+            "Location": "Plano, Texas"
+        },
+        {
+            "Company": "Pearson",
+            "Location": "Durham, North Carolina (RTP)",
+            "Explanation": ""
+        },
+        {
+            "Company": "Amotions, Inc.",
+            "Location": "Burlingame, California (Remote)"
+        }
+    ],
+    "FullTime": [
+        {
+            "Company": "USAA",
+            "Location": "Plano, Texas"
+        },
+        {
+            "Company": "National Security Agency",
+            "Location": "Fort G. Meade, Maryland"
+        },
+        {
+            "Company": "Soft Technology Consultant",
+            "Location": "Chantilly, Virginia"
+        },
+        {
+            "Company": "IBM",
+            "Location": "Durham, North Carolina (RTP)"
+        }
+    ],
+    "Close": [
+        {
+            "Company": "H&R Block",
+            "Pay": "",
+            "Location": "Kansas City, Missouri",
+            "Explanation": "I was close to the last interview, but I canceled the interview process because I got an internship with USAA."
+        },
+        {
+            "Company": "nCino, Inc.",
+            "Pay": "",
+            "Location": "Wilmington, North Carolina",
+            "Explanation": "I was close to getting an interview, but I canceled the interview process because I got an internship with USAA."
+        },
+        {
+            "Company": "Lenovo",
+            "Location": "Morrisville, North Carolina (RTP)",
+            "Explanation": "I did their two interviews and was rejected. I think they wanted someone more experienced."
+        }
+    ]
+}

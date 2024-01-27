@@ -1,0 +1,148 @@
+{
+    "Classes": [
+        {
+            "Name": "CSC 131",
+            "Official": "Introduction to Computer Science - Python",
+            "Professor": "Gulustan Dogan",
+            "Format": "Online Async",
+            "Description": "You learn basic python syntax and logic",
+            "Tips": "Write your own fun personal programs to help you learn the language.",
+            "Skills": "Python, Idle Text Editor"
+        },
+        {
+            "Name": "CSC 133",
+            "Official": "Discrete Mathematical Structures",
+            "Professor": "Kevin Carlin",
+            "Format": "In-Person",
+            "Description": "Discrete math problems. It's just kind of like easy fun math puzzles imo.",
+            "Tips": "Just study the homework.",
+            "Skills": "Basic Math and Python"
+        },
+        {
+            "Name": "CSC 231",
+            "Official": "Introduction to Data Structures",
+            "Professor": "Toni Pence",
+            "Format": "In-Person",
+            "Description": "You learn about data structures and algorithms. Like 10 labs you kind of go over in class, 2 tests, and a final exam.",
+            "Tips": "Write the data structure on paper and try to figure out before coding it. Use debug mode.",
+            "Skills": "Python, Data Structures, PyCharm, Search Algorithms"
+        },
+        {
+            "Name": "CSC 242",
+            "Official": "Digital Logic and Computer Organization",
+            "Professor": "Gulustan Dogan",
+            "Format": "Online Async",
+            "Description": "",
+            "Tips": "",
+            "Skills": "Digital Logic, Assembly"
+        },
+        {
+            "Name": "CSC 302",
+            "Official": "Introduction to Artificial Intelligence",
+            "Professor": "Yang Song",
+            "Format": "In-Person",
+            "Description": "Like 5 programming assigments, 5 written assignments, 2 tests worth 20% of your grade. This class is very hard imo and I don't recommend it, unless you're really into AI.",
+            "Tips": "Look over previous assignments for the tests. He grades the tests very generously imo, but they're still pretty hard.",
+            "Skills": "Python, Algorithms, Artifical Intelligence"
+        },
+        {
+            "Name": "CSC 331",
+            "Official": "Object-Oriented Programming and Design",
+            "Professor": "Shauna White",
+            "Format": "In-Person",
+            "Description": "This class is super easy. 2 tests, labs, final exam, and 1 presentation. The presentation is 10 minutes long and you'll be in a group of 5. You'll be presenting a basically rubricless JavaFX GUI application worth 10% of your final grade. You’ll have the last 1/3ish of the class to make your application with your group. It's basically just a completion grade.",
+            "Tips": "I don't really have any tips for this class, just start early on the project I guess and communicate with your team members.",
+            "Skills": "Java, JavaFX, GUI, FXML, UML Diagrams, Presentations, IntelliJ IDEA or Eclipse"
+        },
+        {
+            "Name": "CSC 340",
+            "Official": "Scientific Computing",
+            "Professor": "Brittany Morago",
+            "Format": "Online Async",
+            "Description": "Lots of complex mathematical algorithms (Gaussian Elimination, Optical Flow, sift stitching, etc.). \"Easy\" calculus assignments. Kind of just the basic stuff.",
+            "Tips": "Go to her office hours frequently and before the assignment is due. Also, watch all the videos she posts",
+            "Skills": "Python, Algorithms, OpenCV, NumPy"
+        },
+        {
+            "Name": "CSC 342",
+            "Official": "Operating Systems",
+            "Professor": "Clayton Ferner",
+            "Format": "In-Person",
+            "Description": "3 tests worth 10%, final exam worth 30%, 5 programming assignments worth 30%, and labs worth 10%. For the programming assingments you build a operating simulator.",
+            "Tips": "The tests take HEAVILY from the labs. Defintely make sure you understand those and the slides. Start programming assignments early and go to office hours. Also look at the API to see the methods to use.",
+            "Skills": "Python, Operating Systems, Classes, Methods."
+        },
+        {
+            "Name": "CSC 351",
+            "Official": "Applied Software Security",
+            "Professor": "Lucas Layman",
+            "Format": "In-Person",
+            "Description": "Super easy, useful, and fun class imo. There are 4 super small, easy programming assignments. A coding final exam you do in your own time worth 15%. Easy multiple-choice quizzes you take at home.",
+            "Tips": "Take advantage of the extra credit, start assignments beforehand.",
+            "Skills": "Python, SQLite3, databases, Software Security"
+        },
+        {
+            "Name": "CSC 360",
+            "Official": "Formal Languages and Computability",
+            "Professor": "Curry Quinn",
+            "Format": "In-Person",
+            "Description": "This is like a harder version of discrete math. You don't really program at all it's mostly just graphs and mathematical stuff.",
+            "Tips": "Go to office hours if you need help. Study the homework. Dr. Guinn is super cool and will help you if you need it.",
+            "Skills": "Finite State Machines, Finite Automata, Regex, etc."
+        },
+        {
+            "Name": "CSC 380",
+            "Official": "Design and Analysis of Algorithms",
+            "Professor": "Gur Adhar",
+            "Format": "Online Sync",
+            "Description": "This class technically has a meeting time, but attendance isn't required and the lectures are recorded. It's basically asynchonous. Tests are open and closed within a certain time frame as expected. You don't program at all it's just graphs. 6 homeworks (30%), 2 tests (20% each), and a final exam. (30%)",
+            "Tips": "Watch his lecture recordings, the homework basically takes directly from them. Also the tests take directly from the homework.",
+            "Skills": "Algorithms, graphs"
+        },
+        {
+            "Name": "CSC 385",
+            "Official": "Professional and Ethical Issues in Computing",
+            "Professor": "Jasmine Gaston",
+            "Format": "Online Sync",
+            "Description": "You do mostly nothing in this class until the end. A bunch of very small assignments throughout. At the end you have a presentation you do by yourself that's like 5-10 minutes long. You also have an essay that's like 5 pages single-spaced. Both on a ethical issue in computing. Basically participation grades and if you do them, there's basically no way to not get an A.",
+            "Tips": "Obviously don't wait until the last minute to start your presentation and essay. If you take this class online figure out how to share you're screen without showing presenters notes.",
+            "Skills": "Presentations, Essays."
+        },
+        {
+            "Name": "CSC 434",
+            "Official": "Programming Languages",
+            "Professor": "Sridhar Narayan",
+            "Format": "In-Person",
+            "Description": "The first part of the class you write parts of the interpreter for a UNCW programming language called \"Jiffy\" which is fun. Then you work on mostly SML and Prolog functions in your assingments. 3 tests (17% each), 1 presentation (10%), 7 assingments (39%). The presentation is with a group of 3, 20 minutes long, and about a lesser known programming language.",
+            "Tips": "Take notes on the examples he uses in class. They usually appear again of the test. Just studying his slides isn't really adequate preperation for his tests. Also, start early on the presentation.",
+            "Skills": "Java, SML (Standard Machine Language), Prolog, Jiffy,  Presentations, Compilers, Recursion, Programming Language Facts"
+        },
+        {
+            "Name": "CSC 450",
+            "Official": "Software Engineering",
+            "Professor": "Lucas Layman",
+            "Format": "In-Person",
+            "Description": "This entire class is working on building a full-stack web application. You're graded based on sprints, participation, online at-home quizzes, and a final presentation. A sprint is a period of time to develop a feature basically. You work in a group of 5 and the presentation is 20 minutes long. This class is mostly just a participation grade and to see how well you follow directions. Definetly take advantage of the super generous opportunities that Layman throughout. If you do those things you're basically gauranteed an A.",
+            "Tips": "Read the rubrics for each sprint, don't wait until the last minute to try and finish your code, take advantage of extra credit opportunities. I'd also recommend using the following tech stack: Vue.js (Composition API) front end, PostgreSQL Database, Python and Flask backend. It's the most beginner friendly and easiest for a 4 month long course imo. React, Java, and Spring Boot, might be too difficult for a beginner. Even if you know what you're doing, your teammates might not.",
+            "Skills": "Vue.js"
+        },
+        {
+            "Name": "CSC 455",
+            "Official": "Database Design and Implementation",
+            "Professor": "Marni Ferner",
+            "Format": "In-Person",
+            "Description": "This class is pretty easy. 3 tests, 18 labs, 1 group project. The project is super easy and you don't present it. It's just a PHP and SQL database web app. It's done in groups of 4.",
+            "Tips": "Just study the labs for the test and do SQL practice problems and you should be good for the tests. Also look over the slides.",
+            "Skills": "PHP, SQL, Databases, Schema Diagrams, ERD Diagrams, PhpMyAdmin"
+        },
+        {
+            "Name": "CSC 498",
+            "Official": "Internship in Computer Science",
+            "Professor": "Shauna White",
+            "Format": "Online Async.",
+            "Description": "50% of your class grade is one-paragraph long descrptions of what you did at your internship every week. The other 50% is making a poster to show at the computing showcase. This entire class is basically a super easy participation grade. At the computing showcase you just stand near your poster and people can come to your \"Stand\" and ask you questions about. You're not presenting to a group. Like 3 people come up to me during the two hours to ask me about my poster and internship. It's super easy and low stress.",
+            "Tips": "Contact Shauana White at turners@uncw.edu to express interest in the class. You can't sign up for it like a regular class. Try to contact asap, as the process of signing up can take a little bit of time. It's pretty straight forward though.",
+            "Skills": "Poster making, Paragraph writing."
+        }
+    ]
+}
