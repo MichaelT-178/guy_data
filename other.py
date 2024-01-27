@@ -9,10 +9,10 @@ with open("jobs/WhereToApply.json", "r") as file:
 companies = []
 
 for company in data["Companies"]:
-    companies.append(company['LinkedIn'])
+    companies.append(company['CompanyName'])
 
 
 
 for c in companies:
-    if companies.count(c) > 2:
+    if companies.count(c) > 1:
         print(c)

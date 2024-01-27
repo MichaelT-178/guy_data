@@ -5,6 +5,7 @@
             "CompanyName": "USAA",
             "Location": "Plano, Texas or San Antonio, Texas",
             "LinkedIn": "https://www.linkedin.com/company/usaa/jobs/",
+            "Handshake": "https://uncw.joinhandshake.com/stu/employers/18568#jobs",
             "Contact": "",
             "Tips": "The official name of this SWE position is \"IT Intern\". Set up notifications via handshake for USAA if you're interested. I think the San Antonio summer application comes out in early-mid September. The Plano one comes out in early-mid October. Apply as soon as the application comes out and I think your chances of getting the job will be pretty high. I could help you through the interview process and if you did your internship in Plano I could Help you with housing. You could also set job alerts using this link -> https://www.usaajobs.com/. Go to the bottom section of the page titled \"Join our talent community\" and enter your information to subscribe to their job alert mailing list. Also the return offer rate for full-time positions at USAA is VERY high (~85%) so keep that in mind through the process. This is a very fun, easy, low-stress internship with lots of great learning and networking opportunities. You'll meet a lot of other college kids in the same boat as you, which I think is good.",
             "Pay": "$25.75 per hour",
@@ -23,6 +24,7 @@
             "CompanyName": "H&R Block",
             "Location": "Kansas City, Missouri",
             "LinkedIn": "https://www.linkedin.com/company/h&r-block/jobs/",
+            "Handshake": "https://uncw.joinhandshake.com/stu/employers/43193",
             "Contact": "",
             "Tips": "I got this job through handshake, so set alerts there if you're interested.",
             "Pay": "",
@@ -58,6 +60,7 @@
         {
             "CompanyName": "nCino, Inc.",
             "Location": "Wilmington, North Carolina",
+            "Handshake": "",
             "LinkedIn": "https://www.linkedin.com/company/ncino-inc-/jobs/",
             "Contact": "ren.yonker@ncino.com (Ren Yonker)",
             "Tips": "",
@@ -67,10 +70,21 @@
         {
             "CompanyName": "UNCW TAC Student Worker Technician",
             "Location": "Wilmington, North Carolina (UNCW Campus)",
+            "Handshake": "https://uncw.joinhandshake.com/stu/employers/287948",
             "LinkedIn": "Not Relevant, can't apply through LinkedIn.",
             "Contact": "tachiring@uncw.edu",
             "Tips": "TAC hires towards the end of the semester and you can apply on handshake. However an easier way imo is to just email tachiring@uncw.edu with your resume and class schedule. You don't need any technical background to perform this job and it's on campus. Note I've never had this job, but I know how the process works. I think this would be a great job to have while you're in school.",
             "Pay": "$12-$14 dollars an hour. You start at $12 and can work your way up to $14.",
+            "Color": "#05998C"
+        },
+        {
+            "CompanyName": "MarineQuest Summer Instructor 2024",
+            "Location": "Wilmington, North Carolina (UNCW Campus)",
+            "Handshake": "https://uncw.joinhandshake.com/stu/employers/340710",
+            "LinkedIn": "Not Relevant, can't apply through LinkedIn.",
+            "Contact": "Morgan O'Connell via handshake",
+            "Tips": "",
+            "Pay": "$800 per year.",
             "Color": "#05998C"
         },
         {
