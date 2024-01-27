@@ -614,22 +614,22 @@
             "Color": "#002783"
         },
         {
-            "CompanyName": "Port Solution Integrators, Inc.",
+            "CompanyName": "DefenseStorm",
             "Location": "Wilmington, North Carolina",
-            "LinkedIn": "No Linkedin",
+            "LinkedIn": "https://www.linkedin.com/company/defensestorm/jobs/",
             "Contact": "",
             "Tips": "",
             "Pay": "",
-            "Color": "#002783"
+            "Color": "#03A978"
         },
         {
-            "CompanyName": "Biostudy Solutions LLC",
+            "CompanyName": "New Hanover Country Arboretum",
             "Location": "Wilmington, North Carolina",
-            "LinkedIn": "No Linkedin",
+            "LinkedIn": "https://www.linkedin.com/company/new-hanover-county-arboretum/jobs/",
             "Contact": "",
-            "Tips": "I think this might have been BioMotion Analytics in the past.",
+            "Tips": "",
             "Pay": "",
-            "Color": "#002783"
+            "Color": "#03A978"
         },
         {
             "CompanyName": "FOCUS Broadband",
@@ -648,6 +648,24 @@
             "Tips": "",
             "Pay": "",
             "Color": "#FF574B"
+        },
+        {
+            "CompanyName": "Port Solution Integrators, Inc.",
+            "Location": "Wilmington, North Carolina",
+            "LinkedIn": "No Linkedin",
+            "Contact": "",
+            "Tips": "",
+            "Pay": "",
+            "Color": "#002783"
+        },
+        {
+            "CompanyName": "Biostudy Solutions LLC",
+            "Location": "Wilmington, North Carolina",
+            "LinkedIn": "No Linkedin",
+            "Contact": "",
+            "Tips": "I think this might have been BioMotion Analytics in the past.",
+            "Pay": "",
+            "Color": "#002783"
         }
     ],
     "Other": [
