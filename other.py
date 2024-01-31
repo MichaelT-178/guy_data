@@ -9,7 +9,7 @@ with open("jobs/WhereToApply.json", "r") as file:
 companies = []
 
 for company in data["Companies"]:
-    companies.append(company['CompanyName'])
+    companies.append(company['LinkedIn'])
 
 
 
